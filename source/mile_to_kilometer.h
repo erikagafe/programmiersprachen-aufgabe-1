@@ -5,12 +5,10 @@
 #ifndef AUFGABENBLATT1_MILE_TO_KILOMETER_H
 #define AUFGABENBLATT1_MILE_TO_KILOMETER_H
 
-
-class mile_to_kilometer {
-
-
+class mile_to_kilometer
+{
 };
 
 double mile_to_kilometer(double mile);
 
-#endif //AUFGABENBLATT1_MILE_TO_KILOMETER_H
+#endif // AUFGABENBLATT1_MILE_TO_KILOMETER_H
